@@ -1,0 +1,7 @@
+#include <stdio.h>
+#int main(){
+  float a;  //声明一个变量
+  */
+    double b;
+  /*
+}
