@@ -153,6 +153,5 @@ void maxscore(int lis[N][L]){
     printf("+++++++++++统计本次考试最高分和最低分++++++++++++++++++++++++\n");
     printf("本次考试最高分：%d\n",max);
     printf("本次考试最低分：%d\n",min);
-
 operate(lis);
 }
