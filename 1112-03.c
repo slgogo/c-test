@@ -5,5 +5,7 @@ int main(){  //函数首部
   b=96;
   sum=a+b;  
   printf("输出sum变量的值：%d\n",sum);  //输出执行结果
+  printf("测试git提交代码");
+  
   return 0;  //函数返回值
 }
